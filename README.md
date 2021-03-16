@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @janusjordan
+- 👀 I’m interested in Coding, Development and Programming
+- 🌱 I’m currently learning Angular, Python, Swift.
